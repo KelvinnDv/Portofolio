@@ -584,6 +584,11 @@ video {
   align-self: center;
 }
 
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 .pt-36 {
   padding-top: 9rem;
 }
