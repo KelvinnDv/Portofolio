@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KelvinGemoyy/Portofolio/issues"
   },
-  "homepage": "https://github.com/KelvinGemoyy/Portofolio#readme"
+  "homepage": "https://github.com/KelvinGemoyy/Portofolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
 }
